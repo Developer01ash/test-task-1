@@ -1,0 +1,35 @@
+.mainDiv{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 50px 10px 50px 25px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
+
+.heading{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+.userIncome{
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.price{
+    font-size: 16px;
+    margin: 0;
+}
+.payNow{
+    background-color: black;
+    color:white
+} 
+.payNow:hover{
+    color: white;
+    background-color: black;
+}
+.expense{
+display: flex;
+justify-content: space-between;
+}

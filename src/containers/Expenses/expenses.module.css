@@ -1,0 +1,8 @@
+.payNow{
+    background-color: black;
+    color:white
+} 
+.payNow:hover{
+    color: white;
+    background-color: black;
+}
